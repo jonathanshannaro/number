@@ -1,8 +1,8 @@
 {
-  "name-web":"font mirror",
+  "name-web":"review hp",
   "author":"font mirror",
   "remove-comment-html":true,
-  "target":"https://www.fontmirror.com/",
+  "target":"https://reviewhp.id/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
