@@ -1,8 +1,8 @@
 {
-  "name-web":"thots life",
-  "author":"Lucah Melayu",
+  "name-web":"font mirror",
+  "author":"font mirror",
   "remove-comment-html":true,
-  "target":"https://thotslife.com/",
+  "target":"https://www.fontmirror.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -27,7 +27,7 @@
       ],
       "replace-string":[
         {
-          "target":"https://stackoverflow.com",
+          "target":"https://www.fontmirror.com/",
           "replace":"${nameWeb}"
         }
       ]
