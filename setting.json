@@ -27,7 +27,7 @@
       ],
       "replace-string":[
         {
-          "target":"https://www.fontmirror.com/",
+          "target":"https://stackoverflow.com",
           "replace":"${nameWeb}"
         }
       ]
